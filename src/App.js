@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-
+// notas para aprender git
 function App() {
   return (
     <div className="App">
